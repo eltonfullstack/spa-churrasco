@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Churrasco dos Homens</h1>
+      <h1>Jesus é o melhor!</h1>
     </>
   )
 }
