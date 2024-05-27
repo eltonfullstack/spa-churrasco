@@ -5,7 +5,7 @@ const Banner = () => {
         <>
             <div className="container-banner-title">
               <h1 className="banner-title">Churrasco dos Homens</h1>
-              <p>com futebol</p>
+              <span className="subtitle-banner">com futebol e Jesus!</span>
             </div>
         </>
     )
